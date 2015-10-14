@@ -1,1 +1,4 @@
 Respuestas a las preguntas de la practica 3
+1.-¿Cuál es el propósito de trabajar con múltiples ramas?
+
+El propósito de trabajar con múltiples ramas en Git es conseguir el desarrollo de forma independiente de una característica determinada del proyecto, de manera que cuando esté trabajando correctamente, se proceda a su fusión con la versión estable.
